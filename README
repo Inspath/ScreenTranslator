@@ -1,0 +1,9 @@
+Screen Translator. 
+
+Connects to Gemini API to do the translating, so set up your Gemini API key as an environment variable:
+
+Automatically defaults to 3.1 flash-lite model because it has the most amount of uses for free. But if you have a paid plan, you can change the model. 
+
+Set up your Gemini API key as an environment variable so the script can safely read it:
+   * **Mac/Linux:** `export GEMINI_API_KEY="your_actual_api_key"`
+   * **Windows:** `set GEMINI_API_KEY="your_actual_api_key"`
