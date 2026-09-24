@@ -1,4 +1,5 @@
-Screen Translator. 
+Screen Translator :
+Allows you to cut a section of your window(like screenshotting) and will automatically translate what's inside. Intended for translating comics/manga/manhwa/manhua raws in different languages in real time, by detecting when you change pages.
 
 Connects to Gemini API to do the translating, so set up your Gemini API key as an environment variable:
 
